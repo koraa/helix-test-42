@@ -1,3 +1,3 @@
-# This is foobar!
+# This is 42!
 
-foobar
+42
